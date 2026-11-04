@@ -54,6 +54,17 @@ Get-FileHash .\glassdock-0.4.0-setup.exe -Algorithm SHA256
 - **Akıllı gizlenme:** Altına bir pencere gelince çekilir, kenara gelince açılır. Tam ekran oyunlarda tamamen gizlenir.
 - **Otomatik güncelleme:** Günde bir kez yeni sürüm denetlenir; varsa indirilir, SHA-256 özeti doğrulanır ve sessizce kurulur. Ayarlardan kapatabilirsin.
 
+## Duvar kâğıtları
+
+Ekran görüntülerindeki duvar kâğıtları burada. Görsele tıkla, açılan sayfada **Download raw file** (⬇) düğmesiyle indir. Hepsini birden indirmek için sağ üstteki **Code → Download ZIP** düğmesini kullan. Tüm görseller 1672×941 boyutunda. *Grain* sürümlerinde ince bir film greni var.
+
+| | |
+|:-:|:-:|
+| [<img src="wallpapers/previews/cosmic-opal.jpg" alt="Cosmic Opal">](wallpapers/cosmic-opal.png)<br>**Cosmic Opal** | [<img src="wallpapers/previews/chromatic-void.jpg" alt="Chromatic Void">](wallpapers/chromatic-void.png)<br>**Chromatic Void** |
+| [<img src="wallpapers/previews/obsidian-void.jpg" alt="Obsidian Void">](wallpapers/obsidian-void.png)<br>**Obsidian Void** | [<img src="wallpapers/previews/obsidian-void-grain.jpg" alt="Obsidian Void Grain">](wallpapers/obsidian-void-grain.png)<br>**Obsidian Void · Grain** |
+| [<img src="wallpapers/previews/pearl-void.jpg" alt="Pearl Void">](wallpapers/pearl-void.png)<br>**Pearl Void** | [<img src="wallpapers/previews/pearl-void-grain.jpg" alt="Pearl Void Grain">](wallpapers/pearl-void-grain.png)<br>**Pearl Void · Grain** |
+| [<img src="wallpapers/previews/chromatic-void-grain.jpg" alt="Chromatic Void Grain">](wallpapers/chromatic-void-grain.png)<br>**Chromatic Void · Grain** | |
+
 ## Kaldırma
 
 **Ayarlar → Uygulamalar → Yüklü uygulamalar → glassdock → Kaldır.** Ayarların `%APPDATA%\glassdock` klasöründe durur. Tamamen temizlemek istersen bu klasörü de silebilirsin.
