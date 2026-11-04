@@ -19,9 +19,9 @@
 <p align="center"><sub>Cam, arkasındaki duvar kâğıdına göre renk alır.</sub></p>
 
 <p align="center">
-  <img src="docs/dock-light.png" width="32%" alt="Açık duvar kâğıdı üstünde dock">
-  <img src="docs/dock-dark.png" width="32%" alt="Koyu duvar kâğıdı üstünde dock">
-  <img src="docs/dock-warm.png" width="32%" alt="Sıcak tonlu duvar kâğıdı üstünde dock">
+  <img src="docs/dock-light.png" alt="Açık duvar kâğıdı üstünde dock"><br>
+  <img src="docs/dock-dark.png" alt="Koyu duvar kâğıdı üstünde dock"><br>
+  <img src="docs/dock-warm.png" alt="Sıcak tonlu duvar kâğıdı üstünde dock">
 </p>
 
 <p align="center">
