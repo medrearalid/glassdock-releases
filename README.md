@@ -186,7 +186,9 @@ Hata ya da öneri için bir [issue aç](https://github.com/medrearalid/glassdock
 
 ## Lisans
 
-glassdock ücretsiz kullanılabilir ama açık kaynak değil. Bu depoda yalnızca kurulum dosyaları ve duvar kâğıtları var. Kişisel kullanım için indirip kurabilirsin; kurulum dosyalarını başka yerlerde yeniden dağıtmak ya da değiştirerek yayınlamak serbest değil.
+© 2026 Guney. Tüm hakları saklıdır.
+
+glassdock ücretsiz kullanılabilir ama açık kaynak değil. Bu depoda yalnızca kurulum dosyaları ve duvar kâğıtları var. Kendi bilgisayarlarında kurup kullanabilir, duvar kâğıtlarını arka plan yapabilirsin; yeniden dağıtmak, değiştirmek ya da satmak yazılı izne bağlı. Koşulların tamamı [LICENSE](LICENSE) dosyasında.
 
 <br>
 
