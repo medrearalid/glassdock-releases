@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="docs/icon.png" width="88" alt="glassdock simgesi">
+<img src="docs/glassdock-icon.png" width="88" alt="glassdock simgesi">
 
 # glassdock
 
-Windows 11 için cam bir dock. Görev çubuğunun yerine geçer, Başlat menüsünü de yeniler.
+Windows 11 için cam bir dock. Görev çubuğunun yerine geçer, Başlat menüsünü yeniler, masaüstüne hareket katar.
 
-<a href="https://github.com/medrearalid/glassdock-releases/releases/latest"><img src="https://img.shields.io/github/v/release/medrearalid/glassdock-releases?style=for-the-badge&label=glassdock%27u%20indir&color=0A84FF&logo=windows11&logoColor=white" alt="glassdock'u indir" height="36"></a>
+Kendi duvar kâğıdı motoruyla gelir. Videoyu ekranına göre bir kez hazırlar, ekran kartında oynatır ve dock'tan ayrı çalıştırır. Bir pencere üstünü kapatınca durur, oyun açılınca belleği bırakır.
+
+<a href="https://github.com/medrearalid/glassdock-releases/releases/latest"><img src="https://img.shields.io/github/v/release/medrearalid/glassdock-releases?style=for-the-badge&label=GLASSDOCK%27U%20%C4%B0ND%C4%B0R&color=0A84FF&logo=windows11&logoColor=white" alt="glassdock'u indir" height="36"></a>
 
 <sub>[Neler yeni](https://github.com/medrearalid/glassdock-releases/releases/latest) · [Kurulum](#kurulum) · [Gizlilik](#gizlilik) · [SSS](#sss)</sub>
 
 <br>
 
-<img src="docs/hero.webp" alt="glassdock, masaüstünün altında" width="100%">
+<img src="docs/hero-black.webp" alt="glassdock, masaüstünün altında" width="100%">
 
 </div>
 
@@ -25,17 +27,17 @@ Win tuşuna bas ve yazmaya başla. Uygulamalar, Windows'un bütün ayarları ve 
 Yazım hatalarını ve baş harfleri anlar. "vsc" yazınca Visual Studio Code bulunur. Ayarlar ana sayfaya değil doğrudan aradığın ayara açılır. Bu Bilgisayar ve Geri Dönüşüm Kutusu da burada, masaüstün boş kalabilir.
 
 <p align="center">
-  <img src="docs/start.webp" width="62%" alt="Başlat paneli ve arama">
-  <img src="docs/search.webp" width="36%" alt="Kategorilere ayrılmış arama sonuçları">
+  <img src="docs/start.webp" width="49%" alt="Başlat paneli ve arama">
+  <img src="docs/search-results.webp" width="49%" alt="Kategorilere ayrılmış arama sonuçları">
 </p>
 
 Windows'un kendi Başlat menüsünü özlersen Ayarlar › Başlat'tan tek dokunuşla geri getirebilirsin.
 
 ## Canlı duvar kâğıdı
 
-Bir videoyu ya da hareketli sahneyi duvar kâğıdı yap. Pencereler üstünü kapatınca, oyunda ve pilde kendini uyutur, oyun açılınca belleği de bırakır. Dock'un camı bu hareketi arkasından yansıtır.
+Bir videoyu ya da hareketli sahneyi duvar kâğıdı yap. Eklediğin video ekranına göre küçültülür, böylece hem az yer kaplar hem de ekran kartını yormaz. Pencereler üstünü kapatınca, oyunda ve pilde kendini uyutur. Dock'un camı bu hareketi arkasından yansıtır.
 
-<p align="center"><img src="docs/live-wallpaper.webp" width="100%" alt="Hareketli duvar kâğıdı ve önünde dock"></p>
+<p align="center"><img src="docs/live-wallpaper-red.webp" width="100%" alt="Hareketli duvar kâğıdı ve önünde dock"></p>
 
 Henüz beta. Ayarlar › Duvar kağıdı sekmesinden açılıyor.
 
@@ -44,16 +46,18 @@ Henüz beta. Ayarlar › Duvar kağıdı sekmesinden açılıyor.
 Cam, arkasındaki renkleri alır. Kenarlarında ışık mercek gibi kırılır.
 
 <p align="center">
-  <img src="docs/dock-opal.png" alt="Renkli duvar kâğıdı üstünde dock" width="85%"><br>
-  <img src="docs/dock-obsidian.png" alt="Koyu duvar kâğıdı üstünde dock" width="85%"><br>
-  <img src="docs/dock-pearl.png" alt="Açık duvar kâğıdı üstünde dock" width="85%">
+  <img src="docs/dock-on-purple.png" alt="Mor duvar kâğıdı üstünde dock" width="90%"><br>
+  <img src="docs/dock-on-obsidian.png" alt="Koyu duvar kâğıdı üstünde dock" width="90%"><br>
+  <img src="docs/dock-on-opal.png" alt="Renkli duvar kâğıdı üstünde dock" width="90%"><br>
+  <img src="docs/dock-on-pearl.png" alt="Açık duvar kâğıdı üstünde dock" width="90%"><br>
+  <img src="docs/dock-on-red.png" alt="Kırmızı duvar kâğıdı üstünde dock" width="90%">
 </p>
 
 ## Müzik
 
 Çalan şarkı dock'ta görünür. Üstüne tıklayınca açılan panelde sıradakiler, çalma listeleri ve şarkıyla birlikte akan sözler var. Spotify, YouTube Music ve tarayıcıda çalanlarla çalışır.
 
-<p align="center"><img src="docs/music.webp" width="34%" alt="Müzik paneli"></p>
+<p align="center"><img src="docs/music-panel.webp" width="34%" alt="Müzik paneli"></p>
 
 ## Gerisi
 
@@ -103,14 +107,11 @@ Ayarların `%APPDATA%\glassdock` klasöründe durur.
 
 ## Duvar kâğıtları
 
-Ekran görüntülerindeki cam duvar kâğıtları burada, hepsi 1672×941. Görsele tıkla ve açılan sayfadan indir. Hepsini birden almak için Code › Download ZIP. Grain sürümlerinde ince bir film greni var.
+glassdock için hazırladığımız üç duvar kâğıdı, hepsi 1672×941. Görsele tıkla ve açılan sayfadan indir. Hepsini birden almak için Code › Download ZIP.
 
-| | |
-|:-:|:-:|
-| [<img src="wallpapers/previews/cosmic-opal.jpg" alt="Cosmic Opal">](wallpapers/cosmic-opal.png)<br><sub><b>Cosmic Opal</b></sub> | [<img src="wallpapers/previews/chromatic-void.jpg" alt="Chromatic Void">](wallpapers/chromatic-void.png)<br><sub><b>Chromatic Void</b></sub> |
-| [<img src="wallpapers/previews/obsidian-void.jpg" alt="Obsidian Void">](wallpapers/obsidian-void.png)<br><sub><b>Obsidian Void</b></sub> | [<img src="wallpapers/previews/obsidian-void-grain.jpg" alt="Obsidian Void Grain">](wallpapers/obsidian-void-grain.png)<br><sub><b>Obsidian Void · Grain</b></sub> |
-| [<img src="wallpapers/previews/pearl-void.jpg" alt="Pearl Void">](wallpapers/pearl-void.png)<br><sub><b>Pearl Void</b></sub> | [<img src="wallpapers/previews/pearl-void-grain.jpg" alt="Pearl Void Grain">](wallpapers/pearl-void-grain.png)<br><sub><b>Pearl Void · Grain</b></sub> |
-| [<img src="wallpapers/previews/chromatic-void-grain.jpg" alt="Chromatic Void Grain">](wallpapers/chromatic-void-grain.png)<br><sub><b>Chromatic Void · Grain</b></sub> | |
+| | | |
+|:-:|:-:|:-:|
+| [<img src="wallpapers/previews/obsidian-void-grain.jpg" alt="Obsidian Void Grain">](wallpapers/obsidian-void-grain.png)<br><sub><b>Obsidian Void</b></sub> | [<img src="wallpapers/previews/pearl-void-grain.jpg" alt="Pearl Void Grain">](wallpapers/pearl-void-grain.png)<br><sub><b>Pearl Void</b></sub> | [<img src="wallpapers/previews/cosmic-opal.jpg" alt="Cosmic Opal">](wallpapers/cosmic-opal.png)<br><sub><b>Cosmic Opal</b></sub> |
 
 ## SSS
 
